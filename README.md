@@ -27,9 +27,12 @@
 ## 软件截图和效果图 ##
 软件截图：
 ![image](https://github.com/xiaoxi666/Img2AsciiVision/blob/master/Demos/Img2Ascii.exe.png)
+
 原图：
 ![image](https://github.com/xiaoxi666/Img2AsciiVision/blob/master/Demos/img.jpg)
+
 转换为Ascii后的字符画：
 ![image](https://github.com/xiaoxi666/Img2AsciiVision/blob/master/Demos/img_Ascii.jpg)
+
 局部放大图（可以看到Ascii码）：
 ![image](https://github.com/xiaoxi666/Img2AsciiVision/blob/master/Demos/ZoomIn.jpg)
