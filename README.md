@@ -27,6 +27,7 @@
 ## 软件截图和效果图 ##
 
 软件截图：
+
 ![image](https://github.com/xiaoxi666/Img2AsciiVision/blob/master/Demos/Img2Ascii.exe.png)
 
 原图：
