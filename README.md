@@ -26,10 +26,10 @@
 
 ## 软件截图和效果图 ##
 软件截图：
-![image](https://github.com/xiaoxi666/Img2AsciiVisio/Demos/Img2Ascii.exe.png)
+![image](https://github.com/xiaoxi666/Img2AsciiVision/Demos/Img2Ascii.exe.png)
 原图：
-![image](https://github.com/xiaoxi666/Img2AsciiVisio/Demos/img.jpg)
+![image](https://github.com/xiaoxi666/Img2AsciiVision/Demos/img.jpg)
 转换为Ascii后的字符画：
-![image](https://github.com/xiaoxi666/Img2AsciiVisio/Demos/img_Ascii.jpg)
+![image](https://github.com/xiaoxi666/Img2AsciiVision/Demos/img_Ascii.jpg)
 局部放大图（可以看到Ascii码）：
-![image](https://github.com/xiaoxi666/Img2AsciiVisio/Demos/ZoomIn.jpg)
+![image](https://github.com/xiaoxi666/Img2AsciiVision/Demos/ZoomIn.jpg)
